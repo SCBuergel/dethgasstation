@@ -1,2 +1,1 @@
-# GasTrology.ETH 
-Ethereum gas analysis connecting to custom web3 endpoint
+**This project is now called [GasTrology.ETH](https://github.com/SCBuergel/gastrology.eth)**
